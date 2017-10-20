@@ -9,4 +9,7 @@ public class Constant {
 
 	public final static String FILE_NAME_UB_BASE = "." + File.separator
 			+ "files" + File.separator + "ub.base";
+
+	public final static String FILE_NAME_RATINGS = "." + File.separator
+			+ "files" + File.separator + "ratings.dat";
 }
